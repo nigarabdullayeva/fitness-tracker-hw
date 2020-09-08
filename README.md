@@ -1,5 +1,8 @@
-# fitness-tracker-hw
+# Fitness-tracker-hw
  The application allowing users to create and uodate their workouts
+ 
+## Heroku deployed link 
+https://fitness-tracker-hww.herokuapp.com/
 
 ## User Story
 
@@ -19,5 +22,4 @@ Run "npm run seed" to get a starter data
 <img width="924" alt="Screen Shot 2020-09-07 at 9 53 28 PM" src="https://user-images.githubusercontent.com/63271349/92428554-095faa00-f155-11ea-8e04-9ee893ed4077.png">
 
 
-#### Heroku deployed link 
-https://fitness-tracker-hww.herokuapp.com/
+
